@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 hello hi irfan imran
+=======
+hello hi irfan imran how
+>>>>>>> 879514cc07b65a21e913b684ed39adebbf5ee282
